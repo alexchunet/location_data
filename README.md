@@ -7,4 +7,4 @@ This repo contains supporting material for analysing smartphone locations data. 
 
 (2) Agglomerative clustering of census shapes
 
-(3) Extraction of Points of Interests (POIs) from Twitter and Open Street Map
+(3) Extraction of points of interests (POIs) from Twitter and Open Street Map
